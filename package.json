@@ -1,0 +1,29 @@
+{
+  "name": "eatdaburger",
+  "version": "1.0.0",
+  "description": "make and eat burgers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonhadi/EatDaBurger.git"
+  },
+  "keywords": [
+    "burger",
+    "eat",
+    "maker"
+  ],
+  "author": "JonHadi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonhadi/EatDaBurger/issues"
+  },
+  "homepage": "https://github.com/jonhadi/EatDaBurger#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "mysql": "^2.17.1"
+  }
+}
